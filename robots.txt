@@ -1,0 +1,8 @@
+#
+# robots.txt for hacms 1.4.03
+#
+
+User-agent: *
+Disallow: /images/
+Disallow: /orders/
+Disallow: /uploading/
